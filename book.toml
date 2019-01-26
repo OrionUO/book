@@ -1,0 +1,8 @@
+[book]
+authors = ["CrossUO Community"]
+multilingual = false
+src = "src"
+title = "CrossUO"
+
+[build]
+build-dir = "docs"
