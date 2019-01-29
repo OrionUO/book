@@ -4,7 +4,7 @@
 	- [Server Tab](launcher/tab-server.md)
 	- [Proxy Tab](launcher/tab-proxy.md)
 	- [Update Tab](launcher/tab-updates.md)
-	- [X:UOA Features Tab](launcher/tab-oa-features.md)
+	- [X:UOA Features Tab](launcher/tab-features.md)
 - [Client](client/client.md)
 	- [Tab 2: Configuration](client/options-client-configuration.md)
 	- [Tab 6: Interface](client/options-interface.md)

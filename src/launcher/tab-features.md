@@ -1,6 +1,6 @@
-# OA Features
+# X:UO Assist Features
 
-![oafeatures](http://www.imageup.ru/img130/2765968/tab_oafeatures.png)
+![xuoafeatures](/docs/img/launcher6.png)
 
 1. List of adjustable options:
 

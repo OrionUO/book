@@ -1,15 +1,17 @@
 # Updates
 
-![updates](http://www.imageup.ru/img130/2765967/tab_updates.png)
+![updates](/docs/img/launcher3.png)
 
-1. List of files available for updating.
+1. `Available Updates` List of files available for updating.
 
-2. Progress of downloading and installing updates.
+2. Download progress.
 
-3. Check updates - Request information about updates.
+3. `Check New Versions` Force fetch information from the server about new updates.
 
-4. Apply updates - Apply updates if they are available.
+4. `Apply Updates` Apply current listed updates.
 
-5. Download X:UO Assist with libraries - Download and install the latest version of the assistant along with all the necessary libraries.
+5. `Packages / Versions` Different available versions or backups.
 
-6. Download X:UO Launcher with libraries - Download and install the latest version of the launcher along with all the necessary libraries.
+6. `Show Changelog` Show latest changelog.
+
+7. `Use Selected Version` Download selected package.
