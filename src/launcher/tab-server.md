@@ -1,6 +1,6 @@
 # Server
 
-![launcher](/docs/img/launcher1.png)
+![launcher](/img/docs/launcher1.png)
 
 1. Account/Server list.
 
