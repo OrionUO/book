@@ -26,7 +26,7 @@
 
 12. `Close after launch` Close the launcher after the client starts.
 
-![config](/docs/img/launcher2.png)
+![config](/img/docs/launcher2.png)
 
 13. `Name` Profile name for current account/server settings.
 

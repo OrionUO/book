@@ -1,6 +1,6 @@
 # Proxy
 
-![proxy](/docs/img/launcher4.png)
+![proxy](/img/docs/launcher4.png)
 
 1. `Proxy Server List`
 

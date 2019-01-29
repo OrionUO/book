@@ -1,6 +1,6 @@
 # Updates
 
-![updates](/docs/img/launcher3.png)
+![updates](/img/docs/launcher3.png)
 
 1. `Available Updates` List of files available for updating.
 
